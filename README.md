@@ -2,13 +2,13 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Email Spam Classifier with Neural Network
+# Email Spam Classifier with Explainable Neural Network
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Build a neural network-based classifier that predicts whether an email is spam or not using text features (TF, TF-IDF) and explain its decisions.  
 
 
 ## Background
